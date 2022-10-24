@@ -1,6 +1,7 @@
 # AI-Counts-Bicep-Curls
 
-Used Pyhton(3.10)
+Used Python(3.10)
 
-- Install openCV, pillow, 
+- Install openCV, pillow, numpy 
+- 
 
